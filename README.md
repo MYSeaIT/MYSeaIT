@@ -12,7 +12,7 @@ I'm a full-stack developer passionate about creating seamless, user-centric web 
 I'm currently focusing on a project called [CodeLoom](link-to-codeloom), aiming to implement user authentication using OAuth2 for increased security in CodeLoom.
 
 💬 **Contact Me:**
-- 📧 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
+- 📧 You can reach me via email at [myseait@gmail.com](mailto:myseait@gmail.com).
 - 📞 [Optional] If needed, you can also contact me via phone at [+34 631 51 96 46].
 - 🌐 Connect with me on [Replit](https://replit.com/@SeaIT) for collaborative coding and experiments.
 
