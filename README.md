@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Adam Shaw</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🌱 I’m currently learning **SQL, Vue, Machine learning**
+I'm a full-stack developer passionate about creating seamless, user-centric web applications. Welcome to my GitHub profile!
 
-- 📫 How to reach me **myseait@gmail.com**
+👨‍💻 **Tech Stack:**
+- 💻 I specialize in full-stack web development using technologies like HTML, CSS, JavaScript, Node.js, and various frameworks like React, Vue.js, and Angular.
+- 🛢️ I'm proficient in database management, working with SQL (MySQL, PostgreSQL) and NoSQL databases like MongoDB.
+- 🌐 I have experience deploying and maintaining applications on platforms like AWS, Heroku, and Netlify.
 
-- ⚡ Fun fact **I like to work**
+🔭 **Currently Working On:**
+I'm currently focusing on a project called [CodeLoom](link-to-codeloom), aiming to implement user authentication using OAuth2 for increased security in CodeLoom.
+
+💬 **Contact Me:**
+- 📧 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
+- 📞 [Optional] If needed, you can also contact me via phone at [+34 631 51 96 46].
+- 🌐 Connect with me on [Replit](https://replit.com/@SeaIT) for collaborative coding and experiments.
+
+🌟 **What You'll Find Here:**
+- 📁 My repositories consist of full-stack projects, coding tutorials, and experiments aimed at learning and sharing knowledge.
+- 📚 I regularly update my repositories with new code, tutorials, and resources related to full-stack development.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
