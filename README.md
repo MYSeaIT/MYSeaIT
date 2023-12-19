@@ -1,26 +1,33 @@
-<h1 align="center">Greetings! I'm Adam Shaw 👋</h1>
-<h3 align="center">Innovative Full-stack Developer | Freelancer | Spain 🇪🇸</h3>
+<h1 align="center">Hey there, I'm Adam Shaw! 👋</h1>
+<p align="center">
+  <img src="https://github.com/your-username/your-repository/blob/master/animation.gif" alt="dynamic content" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelancer%20-💼%20-9cf" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20-🚀%20-brightgreen" />
+  <img src="https://img.shields.io/badge/Location%20-Spain%20-ff69b4" />
+</p>
 
-Welcome to my GitHub sanctuary where innovation meets code craftsmanship! I'm Adam, a meticulous full-stack developer dedicated to building captivating and intuitive web applications. With a fervent passion for technology, I craft solutions that blend seamless user experiences with cutting-edge technologies.
-
-🚀 **About Me:**
-- 💼 Freelancing across a myriad of exciting projects, embracing a spectrum of industries and technologies, refining the digital landscape.
-- 💡 Expertise lies in full-stack web development using HTML, CSS, JavaScript, Node.js, and embracing diverse frameworks such as React, Vue.js, and Angular.
-- 🛠️ Proficient in curating robust databases, adeptly maneuvering SQL (MySQL, PostgreSQL) and elevating user experiences through NoSQL databases like MongoDB.
-- 🌐 Experience extends to deploying and managing applications on versatile platforms like AWS, Heroku, and Netlify, ensuring top-notch performance and scalability.
+Welcome to my GitHub sanctuary, where innovation meets code craftsmanship! I'm Adam, a meticulous full-stack developer dedicated to building captivating and intuitive web applications. With a fervent passion for technology, I craft solutions that blend seamless user experiences with cutting-edge technologies.
 
 🔭 **Current Endeavors:**
-- 🌟 Spearheading a diverse array of freelance projects, orchestrating the implementation of fortified user authentication with OAuth2, fortifying the cybersecurity protocols of various applications.
-- 🛠️ Engrossed in shaping seamless user journeys, exploring the fusion of innovative design paradigms with agile development methodologies.
-  
+- Spearheading diverse freelance projects, fortifying user authentication with OAuth2 and cybersecurity protocols.
+- Shaping seamless user journeys by blending innovative design paradigms with agile development methodologies.
+
+🚀 **About Me:**
+- Freelancing across a spectrum of industries and technologies, refining the digital landscape.
+- Expertise lies in full-stack web development using HTML, CSS, JavaScript, Node.js, and frameworks like React, Vue.js, and Angular.
+- Proficient in curating robust databases, maneuvering SQL (MySQL, PostgreSQL), and utilizing NoSQL databases like MongoDB.
+- Experience extends to deploying and managing applications on AWS, Heroku, and Netlify, ensuring top-notch performance and scalability.
+
 💬 **Let's Connect:**
 - 📧 Drop a line at [myseait@gmail.com](mailto:myseait@gmail.com).
 - 📞 Ring me up at [+34 631 51 96 46].
 - 🌐 Let's collaborate on [Replit](https://replit.com/@SeaIT) to bring ideas to life through collective coding and experimentation.
 
 🌟 **My GitHub Odyssey:**
-- 📁 Dive into my repositories showcasing a kaleidoscope of full-stack projects, insightful coding tutorials, and transformative experiments aimed at perpetual learning and knowledge dissemination.
-- 📚 Expect regular updates brimming with fresh code, illuminating tutorials, and invaluable resources pertinent to the dynamic realm of full-stack development.
+- Dive into my repositories showcasing a kaleidoscope of full-stack projects, coding tutorials, and transformative experiments aimed at perpetual learning and knowledge dissemination.
+- Expect regular updates brimming with fresh code, illuminating tutorials, and invaluable resources pertinent to the dynamic realm of full-stack development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +45,9 @@ Welcome to my GitHub sanctuary where innovation meets code craftsmanship! I'm Ad
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seait"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seait" /></a></p><br><br>
+
+
+<!-- Animated stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MYSeaIT&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
