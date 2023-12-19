@@ -12,9 +12,7 @@ Welcome to my GitHub sanctuary where innovation meets code craftsmanship! I'm Ad
 🔭 **Current Endeavors:**
 - 🌟 Spearheading a diverse array of freelance projects, orchestrating the implementation of fortified user authentication with OAuth2, fortifying the cybersecurity protocols of various applications.
 - 🛠️ Engrossed in shaping seamless user journeys, exploring the fusion of innovative design paradigms with agile development methodologies.
-
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYSeaIT)](https://github.com/MYSeaIT)
-
+  
 💬 **Let's Connect:**
 - 📧 Drop a line at [myseait@gmail.com](mailto:myseait@gmail.com).
 - 📞 Ring me up at [+34 631 51 96 46].
